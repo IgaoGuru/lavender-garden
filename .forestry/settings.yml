@@ -5,14 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: About
+  path: about.md
   label: About Page
-  match: "**/*"
 - type: document
   path: index.md
   label: Home Page
-  match: "**/*"
-  read_only: false
 - type: directory
   path: _notes
   label: Notes
