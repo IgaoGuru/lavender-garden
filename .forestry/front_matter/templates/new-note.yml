@@ -14,3 +14,5 @@ fields:
     schema:
       format: markdown
   label: Text
+pages:
+- _notes/this-is-so-feared.md
