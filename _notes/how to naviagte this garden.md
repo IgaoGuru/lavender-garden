@@ -1,3 +1,3 @@
 ---
-title: How to navigate through this garden
+title: how to navigate though this garden
 ---
