@@ -10,4 +10,4 @@ You can watch the live version of this site \[here\]([https://garden.rahulnajeev
   
 ## License  
   
-Source code is available under the \[MIT license\](LICENSE.md). 
+Source code is available under the [MIT license](LICENSE.md). 
