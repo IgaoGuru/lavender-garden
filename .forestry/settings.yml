@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: About
+  label: About Page
+  match: "**/*"
+- type: document
+  path: index.md
+  label: Home Page
+  match: "**/*"
+  read_only: false
 - type: directory
   path: _notes
   label: Notes
