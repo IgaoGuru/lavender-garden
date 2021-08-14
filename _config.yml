@@ -43,3 +43,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+#Google Analytics
+google_analytics: UA-204964000-1
+
