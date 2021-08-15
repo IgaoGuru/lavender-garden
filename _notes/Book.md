@@ -1,7 +1,7 @@
 ---
 title: Books
 ---
-*A catalogue of the books that I have read so far*
+*A catalogue of all the books that I have read so far (from 2019)*
 
 ## 2021
 - Getting Things Done

@@ -15,7 +15,7 @@ permalink: /
     I am a writer who loves to draw, paint, design and code. I also maintain a <a href="(https://blog.rahulrajeev.net">blog</a> and a monthly newsletter - <a href="(https://blog.rahulrajeev.net/#/portal)">Thought Palace</a> There is an [[About]] page to know more about me or visit [[Now]] page to know what I am working on now.
 
     You must be wondering if I have a blog, [[what purpose does this garden serve]]?
-    Don't worry, this is not a traditional website. Have a quick overview of [[how to navigate though this garden]] or find out [[this site is]].
+    The thing is, this is not a traditional website. Enter the garden to find out more.
 </p>
 
 
