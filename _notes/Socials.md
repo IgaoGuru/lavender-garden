@@ -1,11 +1,6 @@
 ---
-
 title: Social
-
 ---
-
-  
-  
 
 Here is how you can reach out to me:
 
