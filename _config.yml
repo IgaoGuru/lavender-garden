@@ -4,7 +4,7 @@ exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
-baseurl:             "https://garden.rahulrajeev.net"
+baseurl:             ''
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
@@ -24,8 +24,6 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 sass:
   sass_dir:          _sass
@@ -48,40 +46,5 @@ defaults:
 
 #Google Analytics
 google_analytics: UA-204964000-1
-
-#meta
-  author:
-   twitter: rahulrajeeev
-
-  twitter: 
-    username: rahulrajeeev
-    card: summary
-
-  logo: /assets/zettelgarden.png
-
-  defaults:
-  - scope:
-    values:
-      image: /assets/zettelgarden.png
-      author: rahulrajeeev
-
-  social:
-  name: Rahul Rajeev
-  links:
-    - https://twitter.com/rahulrajeeev
-    - https://www.facebook.com/rahulrajeev9
-    - https://www.linkedin.com/in/rahulrajeeev
-    - https://github.com/drawablex86
-    - https://instagram.com/rahulrajeev9
-    - https://www.reddit.com/user/rahulrajeev9
-    - https://blog.rahulrajeev.net
-
-  webmaster_verifications:
-    yandex: f2f26dfe488c6c26
-
-
-
-
-
 
 

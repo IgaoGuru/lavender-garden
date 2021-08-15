@@ -1,7 +1,5 @@
 ---
 title: Books
-tagline: The books Rahul has read so far
-description: This page documents all the book titles that I have read in the past couple of years
 ---
 *A catalogue of all the books that I have read so far (from 2019)*
 

@@ -1,6 +1,3 @@
----
----
-
 
 ---
 title: how to navigate through this garden
