@@ -1,12 +1,7 @@
 
 ---
-
 title: how to navigate through this garden
-
 ---
-
-  
-  
 
 Now that is a question that I can only partially answer. I don't want to limit how you explore my notebook, you can start anywhere and jump to anywhere you like. 
 
