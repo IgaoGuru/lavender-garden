@@ -19,5 +19,3 @@ title: Books
 - The Idiot Brain
 - Phantoms in Brain
 - The power of Habit
-
-[[Home]]
