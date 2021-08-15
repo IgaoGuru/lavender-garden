@@ -4,7 +4,7 @@ exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
-baseurl:             "https://garden.rahulrajeev.net"
+baseurl:             ''
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
@@ -47,7 +47,4 @@ defaults:
 #Google Analytics
 google_analytics: UA-204964000-1
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
