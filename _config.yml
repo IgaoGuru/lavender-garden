@@ -47,6 +47,4 @@ defaults:
 #Google Analytics
 google_analytics: UA-204964000-1
 
-plugin:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+
