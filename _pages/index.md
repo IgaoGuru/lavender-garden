@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ## Hi, I am **Rahul Rajeev** 
-## This is my **Digital Garden**🌱
+# This is my **Digital Garden**🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">The Mysteries of the garden <span style="font-weight: bold">[[Starts Here]]</span>
  </p>
