@@ -1,8 +1,5 @@
-
 ---
-
 title: About this site
-
 ---
 
   
