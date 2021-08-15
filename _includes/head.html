@@ -8,8 +8,6 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
 
   <meta property="og:site_name" content="{{ site.title }}">
-  
-  {% seo %}
 
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 
@@ -47,4 +45,5 @@
       {{ page.title }} &mdash; {{ site.title }}
     {% endif %}
   </title>
+  {% seo %}
 </head>
