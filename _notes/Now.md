@@ -7,7 +7,9 @@ The [[Book]] that I am reading now : [[How to read a book]]
 
 Course that I am taking : [UX Design Certification Course]((https://grow.google/uxdesign/#?modal_active=none)) from **Google**
 
-What I am working on these days: My blog - [Thought Palace](https://blog.rahulrajeev.net)
+What I am working on these days: 
+- My blog - [Thought Palace](https://blog.rahulrajeev.net)
+- Unpacking Niklas Luhmann's [[Zettelkasten]] system as a long term project
 
 
 ## Other Experiments

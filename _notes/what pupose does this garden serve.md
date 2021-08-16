@@ -1,7 +1,5 @@
 ---
-
 title: What purpose does this garden serve
-
 ---
 
 My digital garden or the "Zettelgarden" is a byproduct of the amalgamation of two concepts that I am deeply passionate about - [[Zettelkasten]] and public [[Digital Garden]]s.
