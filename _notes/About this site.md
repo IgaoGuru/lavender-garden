@@ -28,7 +28,7 @@ I copy just the permanent notes from my Zettelkasten system to the `_notes` fold
 
 Note: You can connect forestry.io to serve as a CMS to your site if you are into that sort of thing. The whole logseq to obsidian to Zettelgarden process is very new and I have to address some friction that exists now. I will write about the process in depth once I have ironed out the friction points.
 
-  
+There is also a [[Credit List]].
 
 Go to [[Starts Here]] if you feel lost
 

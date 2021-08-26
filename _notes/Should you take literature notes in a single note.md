@@ -21,3 +21,8 @@ When you wanna revisit a book later down the road you only have to refer to a si
 
 
 
+
+Return to [[Zettelkasten]]
+
+
+

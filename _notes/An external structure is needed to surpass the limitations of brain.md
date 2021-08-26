@@ -11,7 +11,7 @@ But as a second brain Zettelkasten goes beyond that. It is not just a place to o
 
 It becomes a conversation partner.
 
-The similarity between GTD and Zettelkasten lies in the fact they are both external systems and offloading stuff into them requires a considerable amount of habit development. GTD takes lesser overhead when it comes to decision making while zettelkasten is more taxing that way as you are decision making right from the moment you are reading something. This initial taxation will pay its dividends in the long run as you can generate new novel connections and thus becoming perfect examples of how [[Constraints breeds creativity]] and the power of [[forcing function]]s. It becomes ingrained [[Essentialism]] in a way.
+The similarity between GTD and Zettelkasten lies in the fact they are both external systems and offloading stuff into them requires a considerable amount of habit development. GTD takes lesser overhead when it comes to decision making while [[Zettelkasten]] is more taxing that way as you are decision making right from the moment you are reading something. This initial taxation will pay its dividends in the long run as you can generate new novel connections and thus becoming perfect examples of how [[Constraints breeds creativity]] and the power of [[forcing function]]s. It becomes ingrained [[Essentialism]] in a way.
 
 Related:  [[Difference between Zettelkasten and GTD]]
 

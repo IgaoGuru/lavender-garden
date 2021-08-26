@@ -19,3 +19,7 @@ When adapting this style for digital use there are a few things we might be care
 - I think the optimal method would be to connect notes by explaining what the connection does so that everything remains interconnected even when they are different chains of thoughts. (Might need to add more clarity to this sentence.)
 
 - Also, if we were to make the literature notes atomic, when rearranging it as the index note for a book, we see the book in a new light, in a new structure that was devised by us. I believe [[Tiago Forte]] does a lite version during his Progressive Book Summarization technique.
+
+
+
+Return to [[Zettelkasten]]

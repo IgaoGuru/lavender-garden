@@ -1,12 +1,12 @@
 ---
-title: The question I had when making a zettelkasten system for myself
+title: The questions I had when making a zettelkasten system for myself
 ---
 
 ## What were the components of Luhmann's Zettelkasten System?
 - **A Reference System to collect various references**
 	- Reference Notes
-		- Contains bibiliographical details of a book
-		- It can also contain a breif summary of what the book is all about
+		- Contains bibliographical details of a book
+		- It can also contain a brief summary of what the book is all about
 	- Literature Notes
 		- Notes written in response to the things you read
 		- Written as phrases, taking it away from the context of the book
@@ -33,4 +33,7 @@ title: The question I had when making a zettelkasten system for myself
 - Fleeting Notes are the ideas and bits that comes to you randomly and out of context and might have some potential solution to a question that you are seeking or perhaps start a new line of thought all together. It can be a question, a statement, a revelation or a piece of information
 - Sonke uses Zotero. I haven't explored that option. For now I add the meta data for a book or others resources manually into the literature notes that I create. Luhmann's reference system does not seem to be atomic in nature. I think logically it is much easier to put all your literature notes from one source to a single page. I am yet to make that a habit as I pull from various sources at the same time. ( Incremental Reading). Roam, Obsidian and Logseq do give us the option to make it templates (for inserting meta data). I believe there are ways to integrate zotero into these apps. Will have to find out later.
 - A permanent note is born when a literature note or a fleeting note has enough potential for you to explore and make a thread of sensible or reliable chain of thought/arguments.
+
+
+Return to [[Zettelkasten]]
 	
