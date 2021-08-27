@@ -10,4 +10,4 @@ Here is a list of questions to get things primed up:
 2. [[who should use Zettelkasten for writing]]?
 3. What is the purpose of a Zettelkasten ?
 4. [[Zettelkasten is not easy]]
-5. 
+5. [[Problems of a Digital Zettelkasten]]
