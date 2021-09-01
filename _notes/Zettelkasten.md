@@ -11,3 +11,5 @@ Here is a list of questions to get things primed up:
 3. What is the purpose of a Zettelkasten ?
 4. [[Zettelkasten is not easy]]
 5. [[Problems of a Digital Zettelkasten]]
+
+A Zettelkasten loses its value when notes are added to it indiscriminately.
