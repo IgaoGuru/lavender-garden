@@ -6,4 +6,6 @@ I believe Zettelkasten is something that we must personalize extensively to meet
 
 As I keep experimenting with the way I process information, I realised I am frequently changing how I am using this digital garden, so thought I should document these mind shift changes and updates to the process using a [[Change Log]].
 
-I am also experimenting with various [[workflows]] to create an over arching Personal Knowledge Management System. 
+I am also experimenting with various [[workflows]] to create an over arching Personal Knowledge Management System. There is a [[Budding Ground]] to serve as a place holder for notes that I find too hard to place in any of existing train of thought.
+
+I care about topics such as [[writing]], thinking, cognition, intelligence, decision making, mental models, learning, art and design.
