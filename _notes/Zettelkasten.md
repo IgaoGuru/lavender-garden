@@ -1,15 +1,15 @@
 ---
 title: Zettelkasten
 ---
-I have been trying to get my head around the whole idea of Zettelkasten now. Every week I think I feel like I have hit a breakthrough, but then I see some variation of what it is. So Zettelkasten is an enigma for me.
+I am exploring Zettelkasten method quit deeply this year. This is the index note for the topic. 
+In a Zettelkasten index notes act as entry point into a topic and lets explore into different ideas and thoughts you have on the topic. But then each note could diverge and connect with any other note in the system.
 
-This note will serve as the index note that serves as entry point into the topic of zettelkasten.
-There are some very common questions that we need to deal with before entering into the methods of Zettelkasten. 
-Here is a list of questions to get things primed up:
-1. [[What is a Zettelkasten]]?
-2. [[who should use Zettelkasten for writing]]?
-3. What is the purpose of a Zettelkasten ?
-4. [[Zettelkasten is not easy]]
-5. [[Problems of a Digital Zettelkasten]]
+The best place to start is probably from [[What is a Zettelkasten]] or you can use the connections in the graph. If you quickly want to jump into the mechanics of Zettelkasten go to [[Understanding Zettelkasten]]. It is my attempt to codify Zettelkasten as how I understood it and is applying it.
+
+
+1. [[who should use Zettelkasten for writing]]?
+2. What is the purpose of a Zettelkasten ?
+3. [[Zettelkasten is not easy]]
+4. [[Problems of a Digital Zettelkasten]]
 
 A Zettelkasten loses its value when notes are added to it indiscriminately.
