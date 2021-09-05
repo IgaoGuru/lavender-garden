@@ -1,5 +1,5 @@
 ---
-title: Road Map for a writer in 2021
+title: Road Map for the 21st Century Writer
 ---
 
 I am never quite sure how to describe when or where a person starts writing or why someone is compelled to start writing (for themselves). What I know is that I love writing and I find so much joy in writing for myself.
