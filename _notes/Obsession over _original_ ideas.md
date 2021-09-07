@@ -1,7 +1,0 @@
-- Type: #PermanentNotes
-	- Reference:
-		- Tags : #Themes/writing
-		- Related Notes:
-- The thought that you have got no original ideas or something new to offer
-	- The truth there are so original ideas in the world. All ideas are remixes of existing ideas presented through the perspective of whoever it gets explained by.
-	- This is were you haven't discovered what you are passionate about. You don't have to reinvent the wheel, you just have to write about the things that resonates with you using your own words

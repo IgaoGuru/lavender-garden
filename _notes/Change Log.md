@@ -5,6 +5,9 @@ title: Change Log
 ## What is this?
 Change Log's function is to document how I have changed my approach towards using this public Zettelkasten system.
 
+- **September 7, 2021 : Using Tags on the front matter**
+	Though I used tags extensively to organise the "Zettlemind" or my private fault, I had not started using tags for the garden. I realised as more permanent notes are pouring adding tags in the front matter will be of use in the future for organisation as well for migrating the notes to my own jekyll based theme.
+
 - **September 5, 2021: Flexible Atomicity**
 	Slightly relaxed the idea that all notes has to be Atomic is nature. Two reasons to do this:
 	1. To make the garden more useful for people other than me
