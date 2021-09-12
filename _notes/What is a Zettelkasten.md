@@ -1,5 +1,6 @@
 ---
 title: What is a Zettelkasten
+tags: Zettelkasten
 ---
 
 This itself is a controversial question. There are somethings people agree on. Some they don't.
