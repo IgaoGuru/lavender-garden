@@ -1,6 +1,6 @@
 ---
 Title: Zettelkasten is not easy
-Tags: #Tobeprocessed
+Tags: Tobeprocessed, Zettelkasten
 ---
 
 

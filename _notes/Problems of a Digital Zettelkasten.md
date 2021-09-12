@@ -1,5 +1,6 @@
 ---
 title: Problems of a Digital Zettelkasten
+Tags: Zettelkasten
 ---
 
 I don't think we can emulate the exact Zettelkasten system Luhmann used inside a digital environment.
@@ -20,5 +21,7 @@ I propose a Zettelkasten note taking app that is built for ipad and  emulates th
 Another interesting question to ask is how a Zettelkasten type system can be creates using current AR/VR technologies.
 
 Otherwise, you will have to set your own constraints while working in apps like Obsidian. This makes me think about [[How to set up an Ideal Zettelkasten using Obsidian]].
+
+Return to [[Home Note]] or [[Zettelkasten]]
 
 

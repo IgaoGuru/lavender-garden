@@ -9,16 +9,18 @@ title: Books
 - How to take smart notes
 - Make it Stick
 - Midnight Library
-- Design of Everyday Items
+- Design of Everyday Things
 - How to Read a Book
 
 
 ## 2020
 - The Art Spirit
+- Silent House
 
 ## 2019
 - The Idiot Brain
 - Phantoms in Brain
 - The power of Habit
+- Norwegian woods
 
 [[Home]]

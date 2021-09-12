@@ -9,5 +9,5 @@ A Zettelkasten system has two main components or two boxes - One is the Zettelka
 
 ### Important Concepts
 - [[Different types of notes in Zettelkasten]]
-- A brief look into [[How Luhman used his Zettelkasten]]
-- 
+- A brief look into [[How Luhmann used his Zettelkasten]]
+- Developing [[new questions and research directions and using a Zettelkasten]]

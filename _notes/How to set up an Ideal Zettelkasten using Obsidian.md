@@ -1,5 +1,6 @@
 ---
 title: How to set up an Ideal Zettelkasten using Obsidian
+tags: Zettelkasten
 ---
 
 Disclaimer: The usage of word ideal is relative. Ideal here is ideal for me. You must explore your own options to see what works well for you to meet your demands.
@@ -20,3 +21,4 @@ I believe this will help negate some bad habits we pickup while trying to use Ze
 
 
 
+Return to [[Home Note]] or [[Zettelkasten]]
