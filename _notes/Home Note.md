@@ -23,4 +23,4 @@ I am also experimenting with various [[workflows]] to create an over arching Per
 
 
 
-Or for navigation help go to [[how to navigate this garden]].
+Or for navigation help go to [[How to navigate this garden]].
