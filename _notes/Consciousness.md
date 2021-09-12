@@ -1,7 +1,6 @@
 ---
 title: Consciousness
-tags:
-	- #Consciousness
+tags:Consciousness
 ---
 
 
