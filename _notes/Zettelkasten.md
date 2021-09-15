@@ -5,6 +5,7 @@ tags: Zettelkasten
  
  This is an index note for the topic of "Zettelkasten". Zettelkasten is a note taking system that is designed to build your repository of knowledge from the ground up.
 
+Here is the [[mental model of my Zettelkasten system]].
 
 I am exploring Zettelkasten method quit deeply this year. Index notes act as the entry point into a topic and lets you explore into different ideas and thoughts you have on the topic. But then each note could diverge and connect with any other note in the system thus making it location or topic agnostic in a way.
 
