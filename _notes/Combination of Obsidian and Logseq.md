@@ -1,5 +1,6 @@
 ---
 title: A combination of Obsidian and Logseq is powerful
+tags: Tobeprocessed, Obsidian, Logseq, Notetaking
 ---
 
 Out of all the note-taking apps I have used [[Obsidian MD]] adorns the title of the "King". It is super portable, available for free, it has a strong community to support and cheer its development and a whopping number of plugins to shape it into anything that you want it to be. Being a local first markdown app makes it the fasted app out there and that was the original reason why I migrated from notion to Obsidian. *A quick note has to be quick, [[Notion]] makes me wait for a  quick note*

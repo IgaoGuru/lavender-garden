@@ -2,7 +2,7 @@
 title: Home Note
 ---
 
-Home note is were I try to keep things more or less organised. It is the meta-index page  that holds everything together. But it is also subjected to changed depending on the information I consume and process.
+Home note is were I try to keep things more or less organised. It is the meta-index page  that holds everything together. But it is also subjected to change depending on the information I consume and process.
 
 
 The fasted developing topic in this digital garden is on [[Zettelkasten]]. This site is the direct result of my attempt at personalizing Zettelkasten. 

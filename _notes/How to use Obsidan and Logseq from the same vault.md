@@ -1,6 +1,6 @@
 ---
 title: How to use Obsidan and Logseq from the same vault
-tags: #obsidian, #logseq
+tags: Obsidian, Logseq, Tobeprocessed
 ---
 
 

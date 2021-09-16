@@ -1,5 +1,5 @@
 ---
-title: Mind generates out reality 
+title: Mind generates our reality 
 tags: consciousness
 ---
 
