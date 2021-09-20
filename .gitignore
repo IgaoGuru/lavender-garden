@@ -13,5 +13,6 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
-_notes/Templates
+_notes/0Templates
+_notes/Inbox
 
