@@ -1,9 +1,9 @@
 ---
 Title: What is first principle thinking
-Tag: Tobeprocessed, Inbox
+tags:  Inbox
 ---
 
-The simplest way to explain what first principles thinking would be to define it as a framework that bases your thinking on what that is true. [[First Principles]] are what that is true and what can rely completely on without needing to assume or rely on anecdotes.
+The simplest way to explain what first principles thinking would be to define it as a framework that bases your thinking on what is true. [[First Principles]] are what is true and what can rely completely on without needing to assume or rely on anecdotes.
 
 In this [[Mental Model]] for thinking you must strip away elements of the problem to reach its bare bones and then start to find your solution from there.  It is about diving deep beyond the shallowness of the surface.
 

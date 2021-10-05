@@ -1,6 +1,6 @@
 ---
 title: Productivity 
-tags: Tobeprocessed
+tags: 
 ---
 
 You can never write about productivity without writing about [[Capture Habit]].

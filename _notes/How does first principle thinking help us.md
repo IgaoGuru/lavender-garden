@@ -1,6 +1,6 @@
 ---
 Title: Benefits of First Principles Thinking
-Tag: Tobeprocessed, Inbox
+tags : Inbox
 ---
 
 Even though it is an easy mental model to understand, FPT is exhausting and difficult to put into practise. But it comes with its own very unique and powerful benefits.
