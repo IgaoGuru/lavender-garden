@@ -3,6 +3,14 @@ title: Books
 ---
 *A catalogue of all the books that I have read so far (from 2019)*
 
+## 2022
+- Building a Brand Story
+- Measure What Matters
+- On Building a great culture - HBR
+- Persuasive Copywriting
+- The Price of Tomorrow
+
+
 ## 2021
 - Getting Things Done
 - Essentialism
