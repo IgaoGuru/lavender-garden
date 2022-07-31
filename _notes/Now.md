@@ -2,22 +2,26 @@
 title: Now
 ---
 
-The [[Book]] that I am reading now : [[How to read a book]]
+The [[Book]] that I am reading now : [Persuasive Copywriting](https://www.amazon.com/Persuasive-Copywriting-Psychology-Influence-Engage/dp/0749473991)
 
-
-Course that I am taking : [UX Design Certification Course]((https://grow.google/uxdesign/#?modal_active=none)) from **Google**
+Topics that I am actively learning now:
+- **Design Systems** - Creation, Documentation and Management
+- **Knowledge Management** - How effectively build and use tools of thoughts that makes better use of modern technology to manage cognitive overload
+- **Brand Communication Strategies**
+- **User Experience Design** across product, services and process management.
 
 What I am working on these days: 
-- My blog - [Thought Palace](https://blog.rahulrajeev.net)
+- Building a design company at [Dreamflakes](http://dreamflakes.io/)
+- Restarting my blog cum newsletter - [Thought Palace](https://blog.rahulrajeev.net)
 - Unpacking Niklas Luhmann's [[Zettelkasten]] system as a long term project
 
 
 ## Other Experiments
 
 - Figuring out the ins and outs of making a [Polywork Profile](https://updates.rahulrajeev.net/)
-- I recently joined [ Roam Book Club](https://twitter.com/roambookclub?lang=en) and it is in its fifth iteration and we are reading [[How to read a book]]. 
+- Exploring David Perell's Write of Passage.
 - I am exploring the concept of [Digital Fluency](https://digitalproductivity.coach/)
-- മലയാളം ഇതിൽ വർക്ക് ചെയ്യുമോ?
+
 
   
   

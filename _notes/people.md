@@ -6,9 +6,9 @@ tags: people
 
 | Person | Sphere of influence |
 | -------| ------------------- |
-| a | b | 
-| a | b | 
-| a | b | 
+| Tiago Forte| Organisation and Management | 
+| Ali Abdaal| Productivity and Time Management | 
+| David Perell| Explorative writing| 
 | a | b | 
 | a | b | 
 | a | b | 
