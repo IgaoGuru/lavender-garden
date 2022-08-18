@@ -1,9 +1,12 @@
-title:               Zettelgarden
-tagline:            Zettelkasten style Digital Garden of Rahul Rajeev
+title:               Zettelgarden - A Second Brain in public
+tagline:            Zettelkasten style Digital Garden created by Rahul Rajeev
 url:                https://garden.rahulrajeev.net
-description: This is a Zettelkasten style Digital Garden created and maintained by Rahul Rajeev
+description: An experimental Zettelkasten style Digital Garden created and maintained by Rahul Rajeev as his Second Brain to facilitate Thinking in Public.
 twitter:
-        username: rahulrajeeev
+  username: rahulrajeeev
+  card: summary
+logo: /favicon-32x32.png
+locale: eng_UK
 social:
   name: Rahul Rajeev
   links:
@@ -34,6 +37,7 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-seo-tag
 
 sass:
   sass_dir:          _sass
