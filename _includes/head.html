@@ -43,9 +43,6 @@
   <meta name="theme-color" content="#ffffff">
   <!-- Favicon ends-->
 
-  {% seo %}
-
-
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
