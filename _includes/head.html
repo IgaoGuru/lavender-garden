@@ -5,13 +5,9 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}An experimental Zettelkasten style Digital Garden created and maintained by Rahul Rajeev as his Second Brain to facilitate Thinking in Public.{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
 
   <meta property="og:site_name" content="{{ site.title }}">
-<!--  Author information -->
-  <meta name="author" content="Rahul Rajeev">
-  <meta name="image" property="og:image" content="https://garden.rahulrajeev.net/favicon-16x16.png">
-  <meta name="keywords" content="Rahul Rajeev, Zettelkasten, Second Brain, Digital Garden, Personal Knowledge Management System">
 
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 
@@ -47,8 +43,6 @@
   <meta name="theme-color" content="#ffffff">
   <!-- Favicon ends-->
 
-  {% seo %}
-
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
@@ -65,7 +59,7 @@
 
   {% if page.date %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="{{ site.url }}/Rahul Rajeev">
+  <meta property="article:author" content="{{ site.url }}/Rahul">
   {% endif %}
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
