@@ -11,5 +11,5 @@ The budding ground of my Digital Garden is place to store idea snippets that are
 - [Inserting images into a jekyll site using markdown](https://dev-notes.eu/2016/01/images-in-kramdown-jekyll/)
 - [[80-20 Rule in Design]]
 - [[Reasoning from Analogy]]
-- [[Reasoning from Analogy 1]]
+[[My digital garden in not a blog]]
 - 
