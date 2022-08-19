@@ -19,6 +19,6 @@ As for its **true purpose** it shall remain a mystery as I am yet to discover it
 
 *No matter how many times your story might have been told in the same order and fashion across all ages when you tell it in your own order, what comes after will surprise you*.
   
-If you like how you this site and is curious enough to know more about how it was built and how it works go to [[About this site]]
+If you like how you this site and is curious enough to know more about how it was built and how it works go to [[How this site works]]
 
  

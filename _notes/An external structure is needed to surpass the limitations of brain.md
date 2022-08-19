@@ -1,5 +1,6 @@
 ---
 title: An external structure is needed to surpass the limitations of brain
+tags: "note taking"
 ---
 We need a second brain to complement our natural brain. Our memories are finite and our capacity to store information is limiting. The human brain is wonderful when it is doing what is supposed to do. But when you force it to be used as an information process storage tank it fails. Our brains are good for two things making decisions and pattern matching (or linking)
 

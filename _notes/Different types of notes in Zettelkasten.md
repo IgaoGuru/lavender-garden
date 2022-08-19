@@ -1,5 +1,6 @@
 ---
 title: Types of notes in Zettelkasten
+tags: "Zettelkasten"
 ---
 
 When it comes to Zettelkasten knowing what each note does is more important how they are named. Different people use different terms to address each of these notes. The names mentioned here are based on Sonke Ahren's book How to take Smart Note.

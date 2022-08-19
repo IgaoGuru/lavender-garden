@@ -5,11 +5,18 @@ title: Change Log
 ## What is this?
 Change Log's function is to document how I have changed my approach towards using this public Zettelkasten system.
 
+-  **August 20, 2022 : Published the new home note structure**
+	- New streamline home note released for the public
+	- Slowly building a more consited writing and processing routine
+	- Rediscoverability is an important touch point to cover in future iterations
+
+
 - **August 8, 2022 : Major Changes to capture system**
 	- Started rebuilding home note to shape into a better entry point (to be published)
 	- Added readwise as a capture tool for personal database
 	- Separated daily journals from personal database. Now I have a seperate logseq only database for personal journal entries and a obsidian/logseq combo for information capture
 	- Started focusing streamlining note processing inside Zettelgarden vault
+
 
 - **September 7, 2021 : Using Tags on the front matter**
 	Though I used tags extensively to organise the "Zettlemind" or my private fault, I had not started using tags for the garden. I realised as more permanent notes are pouring adding tags in the front matter will be of use in the future for organisation as well for migrating the notes to my own jekyll based theme.

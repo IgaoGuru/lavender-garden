@@ -10,6 +10,4 @@ title: Re-discoverability of notes
 			- Related Permanent Notes: [[Zettelkasten]]
 - Question we are trying to answer
 	- **Why is re-discoverability important?**
-	- LATER **What we do to makes our notes more discoverable** ?
-	  later:: 1629222848532
-	-
+	-  **What we do to makes our notes more discoverable** ?

@@ -1,7 +1,11 @@
 ---
 Title : All Zettelkasten Reference Materials
 ---
+```
+tldr
+Find referene material here about Zettelkasten to read and understand the ways and advantages of Niklas Luhmann's Zettelkasten writing system.
 
+```
 
 - [English Manual of ZK3 open source zettelkasten software](https://www.hgwdavie.com/blog/2021/7/12/zettelkasten-zkn3-english-language-manual)
 - [A digital approach to Luhmann’s Zettelkasten (Slip Box) | Tevin Zhang](https://tevinzhang.com/digital-zettelkasten/)

@@ -1,17 +1,18 @@
 ---
-title: About this site
+title: How this site works
 ---
-
+```
+Tldr
+This digital garden is written in jekyll and powered by Netlify static site generator. The notes are taken in markdown format using a note taking app called "Obsidian Md".
+```
   
 
 ## How it works
-
 Zettelgarden is powered by Jekyll, a static website generator. The site is served as a Netlify deployment based on my Github repo. Jekyll output the notes I have written in markdown as HTML.
 
   
 
 ## About the theme
-
 I did not write the code for the site. [Maxime Vaillancourt](https://maximevaillancourt.com/) did that and the source code is available as a[ Github template repo](https://github.com/maximevaillancourt/digital-garden-jekyll-template) under MIT License. There are many other themes built by amazing people if you wish to make your own digital garden.
 
   
@@ -30,7 +31,7 @@ Note: You can connect forestry.io to serve as a CMS to your site if you are into
 
 There is also a [[Credit List]].
 
-Go to [[Starts Here]] if you feel lost
+Now you have read this, I recommend you goto the [[Home Note]]
 
   
   

@@ -1,22 +1,28 @@
 ---
 title: Home Note
+tags: Tobeprocessed, Inbox
 ---
 
-Home note is were I try to keep things more or less organised. It is the meta-index page  that holds everything together. But it is also subjected to change depending on the information I consume and process.
+Hey, Home note is were I try to keep things more or less organised. Here, I have created some entry points intro different topics and thoughts deliberately. It serves as a meta-index page to all notes in this personal knowledge management system. Do note that the home note will undergo changes with time, as I consume new information and change how I think about organsing the mental model of my digital garden.
+
+## Topic wise entry points
+| Topic | Trajectory |
+| -------| ------------------- |
+| [[Design System]]| Inception, definition, future of Design systems |
+| [[Zettelkasten]]| Comprehension, digital vs analogue, personalisation|
+| [[Productivity]] | Mindsets, Process, Approaches, End Game  |
+| [[Mental Models]]| Dissecting the classic mental models for my own comprehension|
+| [[Writing]]| Content, Copy, Persuasion, Strategy, Communication |
+| [[Learning]] | Science, Methods and Optimisaitons |
+| [[Knowledge Management]] | Information overload, how to manage information |
 
 
-The fasted developing topic in this digital garden is on [[Zettelkasten]]. This site is the direct result of my attempt at personalizing Zettelkasten. 
-- I am iterating on my process all most on a daily basis. So the [[Change Log]] exists to mark the serious mindset shifts and work flow adaption that I have applied to "Zettelgarden".
- 
+I would like to add topics such as art, design,  thinking, cognition, business, process, marketing, communication, intelligence, coding and decision making as I expand my reading and exposure to information.
 
-### Other Entry Points that exists now
-- The  [[Budding Ground]] to serve as a place holder for all the notes  ([[Orphan Notes]]) that I have a hard time finding a connection for. 
-- Then there are  are some [[assumptions]] and [[my favorite questions]] to seek answers for.
-- I  try to learn more and think deeply about  [[Writing]], thinking, cognition, intelligence, [[Productivity]], decision making, [[Mental Models]], [[Learning]], art and design.
-- The list of [[People]] who have inspired me, helped me, guided me and awed me with their work, insight and passion.
-- [[Evergreen Articles]] contains links to some of the interesting articles that have I come across the web.
-- I try to keep a record of the [[Book]]s I read as well.
+All notes ([[Orphan Notes]]) that are yet to have assigned any starting points or topics can be found in the [[Budding Ground]]. You might also find my [[Book]] record interesting; these have helped me significantly shape my approach to living a life that promotes creation over consumption. I am also compiling a list of [[Evergreen Articles]] and [[People]] who have influenced me directly or indirectly.
+
+Finally, let me remind you that Zettelgarden is my pet project. I am trying to create a public version of my personal knowledge management system through a combination of various approaches that are followed by some of the most amazing people that I know through internet. The core motivation for this project remains the [[Zettelkasten]] system, I am constantly adopting the make up of this system to suit my own needs. I try to keep a [[Change Log]] for the site, so that I can document serious mindshift changes and work flow adaptations.
 
 
+For navigation help, go to [[How to navigate this garden]].
 
-Or for navigation help go to [[How to navigate this garden]].

@@ -1,7 +1,8 @@
 ---
 title: Books
+tags: "book"
 ---
-*A catalogue of all the books that I have read so far (from 2019)*
+*A catalogue of all the books that I have read so far (from 2019)*. I try to read less with more focus these days, so most of the books here can be treated as my best books to read in a lifetime list.
 
 ## 2022
 - Building a Brand Story
@@ -9,6 +10,11 @@ title: Books
 - On Building a great culture - HBR
 - Persuasive Copywriting
 - The Price of Tomorrow
+- Building a Second Brain - Tiago Forte
+- The Communication Book
+- 80 20 Manager - Richard Koch
+- Scale at Speed
+- What is Exhibition Design
 
 
 ## 2021
