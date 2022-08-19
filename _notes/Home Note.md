@@ -7,13 +7,13 @@ Hey, Home note is were I try to keep things more or less organised. Here, I have
 
 ## Topic wise entry points
 
-[[Design System]] - Inception, definition, future of Design systems 
-[[Zettelkasten]] - Comprehension, digital vs analogue, personalisation
-[[Productivity]] - Mindsets, Process, Approaches, End Game  
-[[Mental Models]] - Dissecting the classic mental models for my own comprehension
- [[Writing]] - Content, Copy, Persuasion, Strategy, Communication 
-[[Learning]] - Science, Methods and Optimisaitons 
-[[Knowledge Management]] - Information overload, how to manage information 
+- [[Design System]] - Inception, definition, future of Design systems 
+- [[Zettelkasten]] - Comprehension, digital vs analogue, personalisation
+- [[Productivity]] - Mindsets, Process, Approaches, End Game  
+- [[Mental Models]] - Dissecting the classic mental models for my own comprehension
+- [[Writing]] - Content, Copy, Persuasion, Strategy, Communication 
+- [[Learning]] - Science, Methods and Optimisaitons 
+- [[Knowledge Management]] - Information overload, how to manage information 
 
 
 I would like to add topics such as art, design,  thinking, cognition, business, process, marketing, communication, intelligence, coding and decision making as I expand my reading and exposure to information.
