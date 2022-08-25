@@ -11,6 +11,10 @@ A deep dive into the world of digital gardens to understand the whys and whats b
 
 Hey there stranger, thank you for taking the time to read my brief note on Digital Garden. As you might have imagined, this site happens to be my digital garden. I urge you to explore my site starting from the home note to experience the concept of Digital Garden yourself before reading about it here through the rest of the sections.
 
+
+![Digital Garden](/assets/Garden.gif)
+
+
 ## What is a Digital Garden?
 
 A digital garden is a collection of ideas, notes, opinions, or thoughts that do not follow any strict organizational structure or follow the usual conventions that one might see in a personal blog or website.
