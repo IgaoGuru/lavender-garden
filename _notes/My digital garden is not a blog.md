@@ -1,6 +1,6 @@
 ---
 title: My digital garden is not a blog
-tags: "digital garden", obsidian
+tags: digital garden, obsidian
 ---
 ```
 A deep dive into the world of digital gardens to understand the whys and whats behind this novel way of sharing thoughts and ideas on internet.
