@@ -1,5 +1,5 @@
 ---
-title: Exploring Tiddly Wikis
+title: Exploring TiddlyWikis
 tags: Notetaking, Inbox
 ---
 

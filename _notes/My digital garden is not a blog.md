@@ -8,7 +8,6 @@ A deep dive into the world of digital gardens to understand the whys and whats b
 
 
 ## Welcome to my Digital Garden 
-
 Hey there stranger, thank you for taking the time to read my brief note on Digital Garden. As you might have imagined, this site happens to be my digital garden. I urge you to explore my site starting from the home note to experience the concept of Digital Garden yourself before reading about it here through the rest of the sections.
 
 
