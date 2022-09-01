@@ -6,7 +6,7 @@ tags:  Obsidian, Logseq, Notetaking, Inbox
 Let's look at how to use Obsidian and Logseq together to make best use of capabilities offered by these two wonderful note taking apps.
 ```
 
-Out of all the note-taking apps I have used [[Obsidian MD]] adorns the title of the "King". It is super portable, available for free, it has a strong community to support and cheer its development and a whopping number of plugins to shape it into anything that you want it to be. Being a local first markdown app makes it the fasted app out there and that was the original reason why I migrated from notion to Obsidian. *A quick note has to be quick, [[Notion]] makes me wait for a  quick note*
+Out of all the note-taking apps I have used [[Obsidian MD]] adorns the title of the "King". It is super portable, available for free, it has a strong community to support and cheer its development and a whopping number of plugins to shape it into anything that you want it to be. Being a local first markdown app makes it the fasted app out there and that was the original reason why I migrated from notion to Obsidian. *A quick note has to be quick, [[Notion]] makes me wait for creating quick note*
 
 I got hooked on Obsidian thereafter because of its simply gorgeous graph view. Watching that graph grow became the reward and motivation for me to take more notes. Obsidian does the job 99.9999% of the time for me and it can in fact function on its own as a comprehensive, Zettelkasten cum Reference cum Project Management Tool.
 

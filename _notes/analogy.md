@@ -3,9 +3,9 @@ title: Analogy
 tags: "mental model"
 ---
 
-We use analogies to explain the something unfamilar to something based on what that is familar to them. An analogy simply represents a comparison between two objects or two system of objects.
+We use analogies to explain something unfamiliar to something based on what is familiar to them. An analogy represents a comparison between two objects or two systems of things.
 
-The comparisons are drawn out on the basis of similarity that exist between the two objects.
+The comparisons are drawn out based on similarities between the two objects.
 
 
 
