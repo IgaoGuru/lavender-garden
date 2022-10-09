@@ -18,16 +18,16 @@ Once you start using templates, you might start using it for more frequently and
 **Step 1** : Create a file for housing all your templates. Ex "Templates"
 
 **Step 2** : Create a block containing the text for your template.
-![Logseq Template Demo](_notes/assets/Demo Logseq Template.png)
+![Logseq Template Demo](/assets/Demo%20Logseq%20Template.png)
 
 **Step 3** : Right click on the block bullet and select the "Make Template" option
-![Logseq Template Demo 2](_notes/assets/Logseq template demo 2.png)
+![Logseq Template Demo 2](/assets/Logseq%20template%20demo%202.png)
 
 **Step 4** : Give you template a name and submit. Make sure to leave the include parent block toggle unchecked, to avoid the title from being added into the template content.
-![Logseq Template Demo 3](_notes/assets/Logseq template demo 3.png)
+![Logseq Template Demo 3](/assets/Logseq%20template%20demo%203.png)
 
 **Step 5** : Now that your template is ready, the next step to use the template wherever needed. For that you just need to type "/" to trigger options command into Logseq and select "Templates" from the list of available option. Click on the template you wish to use and watch it magically appear on your page.
-![Logseq Template Demo 4](_notes/assets/Logseq template demo 4.png)
+![Logseq Template Demo 4](/assets/Logseq%20template%20demo%204.png)
 
 **Step 6** :  You can create any number of templates in this way and trigger them using the "/" menu.
 
