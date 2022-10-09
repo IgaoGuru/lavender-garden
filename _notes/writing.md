@@ -7,6 +7,11 @@ title: My thoughts on Writing
 
 
 
+## Related Notes
+[[Logseq]], [[Obsidian MD]]
+
+
+
 
 
 
