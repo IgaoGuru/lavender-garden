@@ -20,6 +20,7 @@ Being a fully open source note taking app, you can [self host the entire app](ht
 
 Related notes:
 [[How to create templates in Logseq]]
+[[10 Best logseq plugins ]]
 
 
 
