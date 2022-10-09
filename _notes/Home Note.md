@@ -22,6 +22,8 @@ All notes ([[Orphan Notes]]) that are yet to have assigned any starting points o
 
 Finally, let me remind you that Zettelgarden is my pet project. I am trying to create a public version of my personal knowledge management system through a combination of various approaches that are followed by some of the most amazing people that I know through internet. The core motivation for this project remains the [[Zettelkasten]] system, I am constantly adopting the make up of this system to suit my own needs. I try to keep a [[Change Log]] for the site, so that I can document serious mindshift changes and work flow adaptations.
 
+Of late, I am also thinking of framing my own [[12 favourite problems]] like Richard Feynman.
+
 
 For navigation help, go to [[How to navigate this garden]].
 

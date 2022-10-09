@@ -5,7 +5,16 @@ title: Change Log
 ## What is this?
 Change Log's function is to document how I have changed my approach towards using this public Zettelkasten system.
 
--  **August 20, 2022 : Published the new home note structure**
+- **September 18, 2022**
+	- This is a change note, that change log. I am not making any changes to the system, but I shifting the model to a new direction.
+	- I have been reading Tiago Forte's Building a Second Brain book quite deeply now, trying to further internalise it's core concepts and adapt it to my own use case. The case for PARA is quiet strong, when thinking in terms of actionablity and ease of capture. But his system lacks the larger allure and serendipity offered by Zettelkasten (or my intrepretation of what a Zettelkasten is) 
+	- I am moving towards consolidating my knowledge base into three components all together - A private journal based on Logseq; A tiago style second brain using PARA for productive referencing; and the Zettelgarden which will morph into a true thinking box.
+	- For Tiago's approach I might go with either Notion or Obsidian, once I figure which one is more intuitive to navigate under the PARA framework
+	- For the Zettelgarden, I have to use obsidian by default cause of the way the site runs. But if Logseq makes more sence I do have the option to run a site that runs from a  logseq vault.
+
+
+
+- **August 20, 2022 : Published the new home note structure**
 	- New streamline home note released for the public
 	- Slowly building a more consited writing and processing routine
 	- Rediscoverability is an important touch point to cover in future iterations

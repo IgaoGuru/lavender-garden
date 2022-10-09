@@ -18,6 +18,11 @@ Being a fully open source note taking app, you can [self host the entire app](ht
 4. Task Management using Logseq
 
 
+Related notes:
+[[How to create templates in Logseq]]
+
+
+
 
 
 
