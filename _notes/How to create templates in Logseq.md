@@ -62,5 +62,5 @@ The true power of logseq templates is  in cases where you have to work with same
 
 
 
-
+Explore more topics in [[Logseq]]
 Return to [[Home Note]]
