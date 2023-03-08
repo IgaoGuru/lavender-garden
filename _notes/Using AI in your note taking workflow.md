@@ -1,10 +1,11 @@
 ---
-title: Using AI to boost your writng workflows
+title: Using AI to boost your writing workflows
 description: My notes as I explore the use of AI in augumenting my note taking system and
   improve my personal knowledge management system.
 date: 2023-03-08T20:21:35.580Z
 tags:
   - AI
+slug: ai-boost-writing-workflows
 ---
 
 > It is official. I have also started expertimenting using AI into my note taking workflows. I have been meaning to do this while, but work has kept me busy and I haven't touched my knowledge graph in a long while. Now, I have finally brought gpt3 into my obsidian workflow and this is going to be an interesing ride.
