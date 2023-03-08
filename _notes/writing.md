@@ -64,6 +64,7 @@ To overcome these challenges and make AI writing more effective, businesses and 
 
 - What would a [[road map for a writer]] look like ?
 - [[Why writing is an important for a manager]]
+- [[Using AI in your note taking workflow]]
 
 
 
