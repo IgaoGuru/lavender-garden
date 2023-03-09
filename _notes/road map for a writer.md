@@ -1,5 +1,9 @@
 ---
 title: Road Map for the 21st Century Writer
+keywords: Writing
+lastmod: 2023-03-09T19:00:15.304Z
+description: Looking into some ideas on getting better at the art and craft of writing in
+  the 21st century
 ---
 
 I am never quite sure how to describe when or where a person starts writing or why someone is compelled to start writing (for themselves). What I know is that I love writing and I find so much joy in writing for myself.

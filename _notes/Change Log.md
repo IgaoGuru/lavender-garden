@@ -1,9 +1,18 @@
 ---
-title: Change Log
+title: Zettelgarden's Change Log
+description: Change log of Rahul Rajeev's Zettelgarden. This page documents how I have
+  changed my approach towards using this public Zettelkasten system.
+lastmod: 2023-03-09T18:55:53.714Z
 ---
 
 ## What is this?
 Change Log's function is to document how I have changed my approach towards using this public Zettelkasten system.
+
+- March 10, 2023
+	- Sub-domain no longer managed by cloud flare due to migration of personal site to wix
+	- Started using [front matter](https://frontmatter.codes/) to manage SEO for the garden
+	- Integrated open ai api to obsidian workflow - experiment AI powered note taking and learning workflows
+	- PKM use has shifted from Obsidian to Logseq and now to Tana. Loving Tana so much, but tana lacks a mechanism to share notes externally. Hoping to see if an api comes out soon so that I can connect to tana to zettelgarden and create one seem less system
 
 - **September 18, 2022**
 	- This is a change note, that change log. I am not making any changes to the system, but I shifting the model to a new direction.
@@ -43,4 +52,8 @@ Change Log's function is to document how I have changed my approach towards usin
 	Overview till date: I started the digital garden as a place to share my permanent notes in a public space. The first approach was to write every thing in my private system and then export the notes that I have tagged there as "permanent notes" to here. 
 	But this approach wasn't so intuitive and soon proved to be too cumbersome as it became difficult to process updates to existing notes and the amount of reformatting it took to make the text readable inside a website framework.
 	Right now I am working on emulating a real Zettelkasten digitally by adding the permanent notes directly here based on contexts to which it can be added.
+
+Return to [[Home Note]]
+
+	*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*
 

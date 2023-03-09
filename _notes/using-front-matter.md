@@ -9,11 +9,12 @@ categories:
   - Web Dev
 draft: false
 slug: front-matter
+lastmod: 2023-03-09T18:58:49.751Z
 ---
 
 
 # Discovering Front Matter
-Front matter is an amazing tool to manage this digital garden right from the vs code environment.
+[Front matter](https://frontmatter.codes/) is an amazing tool to manage this digital garden right from the vs code environment.
 
 
 ## Why Vs code?

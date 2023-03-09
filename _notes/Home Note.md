@@ -14,7 +14,7 @@ Hey, Home note is were I try to keep things more or less organised. Here, I have
 - [[Writing]] - Content, Copy, Persuasion, Strategy, Communication 
 - [[Learning]] - Science, Methods and Optimisations 
 - [[Knowledge Management]] - Information overload, how to manage information 
-
+- [[Artificial Intelligence]] - About AI, LLMs, ML, their potential and their real impact
 
 I would like to add topics such as art, design,  thinking, cognition, business, process, marketing, communication, intelligence, coding and decision making as I expand my reading and exposure to information.
 

@@ -3,12 +3,15 @@ title: who should use Zettelkasten for writing
 keywords:
   - Zettelkasten
   - Writing
-lastmod: 2023-03-09T18:07:15.098Z
+lastmod: 2023-03-09T18:15:57.408Z
 slug: zettelkasten-writing
 description: Thoughts on who should be using Zettelkasten for writing and research.
+tags:
+  - Zettelkasten
+  - Writing
 ---
 
-# Who should use a Zettelkasten for writing
+# Zettelkasten for writing
 
 Zettelkasten is not for people who are looking for quick results. It doesn't promise you unmatched productivity in the short term, not will it be the shortest path if you are writing towards an end goal.
 
