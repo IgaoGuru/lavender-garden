@@ -71,6 +71,8 @@ To overcome these challenges and make AI writing more effective, businesses and 
 ## Related Notes
 [[Logseq]], [[Obsidian MD]]
 
+Return to [[Home Note]]
+
 
 
 

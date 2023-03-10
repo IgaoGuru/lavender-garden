@@ -4,6 +4,17 @@ tags: "book"
 ---
 *A catalogue of all the books that I have read so far (from 2019)*. I try to read less with more focus these days, so most of the books here can be treated as my best books to read in a lifetime list.
 
+## 2023
+- The Strategic Brand Management 
+- What's your digital business model
+- The efficiency paradox
+- Winning the digital age
+- Hegarty on creativity
+- Modular - Web's new architecture
+- Never split the difference
+- 
+
+
 ## 2022
 - Building a Brand Story
 - Measure What Matters

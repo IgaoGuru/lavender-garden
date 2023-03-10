@@ -1,6 +1,13 @@
 ---
 title: Home Note
-tags: Tobeprocessed, Inbox
+keywords:
+  - Writing
+  - Zettelkasten
+  - Productivity
+lastmod: 2023-03-10T09:12:15.470Z
+description: Welcome to the home note of Zettelgarden. Here are some topic wise entry
+  points for you to explore into different notes in this garden. Topics are
+  writing..
 ---
 
 Hey, Home note is were I try to keep things more or less organised. Here, I have created some entry points intro different topics and thoughts deliberately. It serves as a meta-index page to all notes in this personal knowledge management system. Do note that the home note will undergo changes with time, as I consume new information and change how I think about organising the mental model of my digital garden.

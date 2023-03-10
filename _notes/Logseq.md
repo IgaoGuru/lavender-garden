@@ -1,6 +1,11 @@
 ---
-title: Logseq 
-
+title: Logseq
+description: Entrypoint to all my notes regarding Logseq
+lastmod: 2023-03-10T14:26:03.908Z
+keywords:
+  - Logseq
+  - PKM
+  - Personal Knowledge Management System
 ---
 This page serves as the index note for all my thoughts, notes and workflows surrounding the notetaking/outline app called [Logseq](https://logseq.com/).
 
