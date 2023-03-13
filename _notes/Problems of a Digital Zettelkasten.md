@@ -22,6 +22,10 @@ Another interesting question to ask is how a Zettelkasten type system can be cre
 
 Otherwise, you will have to set your own constraints while working in apps like Obsidian. This makes me think about [[How to set up an Ideal Zettelkasten using Obsidian]].
 
-Return to [[Home Note]] or [[Zettelkasten]]
+
+Return to [[Zettelkasten]] or [[Home Note]]
+
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*
 
 

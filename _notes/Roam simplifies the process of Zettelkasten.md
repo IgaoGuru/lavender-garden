@@ -12,4 +12,7 @@ Title: Roam simplifies the process of Zettelkasten
 - [[Re-discoverability of notes]] is a good question to ponder about in this scenario?
 - Roam blurs the distinction between a permanent note and a literature note especially when you are writing from a highlight.
 
-[[Zettelkasten]]
+Return to [[Zettelkasten]] or [[Home Note]]
+
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*

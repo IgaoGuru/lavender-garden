@@ -12,3 +12,14 @@ The budding ground of my Digital Garden is place to store idea snippets that are
 - [[80-20 Rule in Design]]
 - [[Reasoning from Analogy]]
 - [[My digital garden is not a blog]]
+- [[AI and note taking]]
+- [[Improving quality of learning through low stakes quizzes]]
+- [[using-front-matter]]
+- [[The concept of beginners luck and lack of expectations]]
+
+
+
+Return to [[Home Note]]
+
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of m

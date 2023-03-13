@@ -13,3 +13,9 @@ For example, if I try to create a zettlekasten system on my own with the limited
 This distinction shall help me focus on relevant information as i try to read more stuff regarding zettlekasten.
 
 This approach is more directed towards students who wants to learn or is trying to answer question. You cannot force a student to learn this way. May be what we oughta to do is to help them find questions that they are motivated to solve.
+
+
+Return to [[Budding Ground]] or [[Home Note]]
+
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*

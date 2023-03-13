@@ -20,7 +20,9 @@ I don't use Zotero in my work flow as for now as I am not too comfortable with i
 #### How all this adds up.
 As you consume knowledge and make your literature notes it is possible you to have new ideas. If they are just random idea snippet it will end up as a [[Fleeting Note]], while the more serious and coherent ones will feed your Zettelkasten as [[Permanent Note]]s.
 
+Also read: [[Taking literature notes from online sources]], [[Should you take literature notes in a single note]]
 
-Related Notes: [[Zettelkasten]], Feynmann Learning Technique
+Return to [[Understanding Zettelkasten]] or [[Home Note]] or [[Zettelkasten]]
 
-Return to [[Understanding Zettelkasten]] or [[Home Note]]
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*

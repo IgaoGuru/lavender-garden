@@ -74,13 +74,28 @@ In summary, JAMstack is a modern web development architecture that emphasizes pr
 There are a wide variety of JAMstack tools available, each with its own strengths and use cases. Here are some of the most popular tools used in the JAMstack space:
 
 Static Site Generators: Static site generators (SSGs) are tools that generate pre-built HTML, CSS, and JavaScript files that can be served directly to the client. Some popular SSGs in the JAMstack space include Gatsby, Next.js, Hugo, Jekyll, and Nuxt.js.
+
 Headless CMS: Headless content management systems (CMS) are tools that provide a way to manage content separately from the presentation layer. Headless CMSs are a popular choice for JAMstack sites because they allow for easy content management and integration with other services. Popular headless CMSs include Contentful, Strapi, and Sanity.
+
 Front-end Frameworks: Front-end frameworks are libraries or tools that help developers build user interfaces for web applications. Some popular front-end frameworks used in JAMstack development include React, Vue.js, and Angular.
+
 Serverless Functions: Serverless functions allow developers to write and deploy code without worrying about server management. Popular serverless function platforms used in JAMstack development include AWS Lambda, Google Cloud Functions, and Netlify Functions.
+
 Authentication and Identity: Authentication and identity services provide a way to manage user authentication and authorization in JAMstack applications. Popular authentication and identity services include Auth0, Firebase Authentication, and Netlify Identity.
+
 Deployment and Hosting: Deployment and hosting services provide a way to deploy and serve JAMstack sites and applications. Popular deployment and hosting services used in JAMstack development include Netlify, Vercel, AWS Amplify, and Firebase Hosting.
+
 Static Site Search: Static site search tools allow developers to add search functionality to their JAMstack sites without relying on a server-side database. Popular static site search tools include Algolia, Lunr, and FlexSearch.
+
 Build Tools: Build tools automate the process of building, testing, and deploying JAMstack applications. Popular build tools include Webpack, Rollup, and Parcel.
+
 Monitoring and Analytics: Monitoring and analytics tools provide a way to track and analyze user behavior and application performance in JAMstack applications. Popular monitoring and analytics tools include Google Analytics, Sentry, and New Relic.
+
 Design and Collaboration: Design and collaboration tools provide a way for teams to collaborate on design and development in JAMstack applications. Popular design and collaboration tools include Figma, Sketch, and InVision.
+
 These are just a few of the many JAMstack tools available in the space. As the JAMstack continues to grow in popularity, it's likely that we will see even more tools and services emerge to support this modern web development architecture.
+
+Return to [[Budding Ground]] or [[Home Note]]
+
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of m

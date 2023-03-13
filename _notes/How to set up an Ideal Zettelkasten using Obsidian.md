@@ -19,6 +19,9 @@ As we are writing a permanent note, we can start thinking about the context into
 
 I believe this will help negate some bad habits we pickup while trying to use Zettelkasten in a digital environment. 
 
+Also read: [[Obsidian MD]]
+
+Return to [[Zettelkasten]] or [[Home Note]]
 
 
-Return to [[Home Note]] or [[Zettelkasten]]
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*

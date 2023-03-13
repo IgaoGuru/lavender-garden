@@ -10,3 +10,9 @@ Tags: #Tobeprocessed
 
 - But I am starting to see that these where never the real negatives in a analogue system.  The way I see it these where the strenth of the system.
 - Using abstract numbers helps keep the zettels truly atomic and allow us to make more thoughtful decision regarding where might the note fit it.
+
+
+Return to [[Zettelkasten]] or [[Home Note]]
+
+
+*Hey there, my name is [Rahul Rajeev](https://rahulrajeev.net/?utm_src=garden) and thank you for taking the time to read through my digital garden. This garden is a raw reflection of my explorations - so all the information shared here are versions of my own experiences and assumptions.*
