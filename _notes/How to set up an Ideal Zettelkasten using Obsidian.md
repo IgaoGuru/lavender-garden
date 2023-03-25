@@ -1,6 +1,10 @@
 ---
 title: How to set up an Ideal Zettelkasten using Obsidian
 tags: Zettelkasten
+description: "Learn how to set up a zettelkasten using Obsidian MD - a powerful note-taking
+  tool. Boost your productivity and organization with this simple yet effective
+  method. "
+lastmod: 2023-03-25T15:17:58.569Z
 ---
 
 Disclaimer: The usage of word ideal is relative. Ideal here is ideal for me. You must explore your own options to see what works well for you to meet your demands.

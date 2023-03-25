@@ -1,7 +1,8 @@
 ---
 title: Logseq
-description: Entrypoint to all my notes regarding Logseq
-lastmod: 2023-03-10T14:26:03.908Z
+description: Entrypoint to all my notes regarding Logseq - A modern markdown based local
+  first note taking tool.
+lastmod: 2023-03-25T15:14:58.440Z
 keywords:
   - Logseq
   - PKM

@@ -1,5 +1,7 @@
 ---
 Title: Roam simplifies the process of Zettelkasten
+lastmod: 2023-03-25T15:25:17.641Z
+description: Discover how you can use Roam Research as a digital zettelkasten
 ---
 
 ## Some thoughts on Roam Research and Obsidian

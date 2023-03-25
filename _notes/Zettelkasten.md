@@ -1,6 +1,12 @@
 ---
 title: Zettelkasten
 tags: Zettelkasten,
+description: Discover the power of Zettelkasten, the ultimate note-taking system that can
+  transform your productivity. Learn how to create your second brain and never
+  forget an idea again. Read more now.
+lastmod: 2023-03-25T15:11:29.970Z
+keywords:
+  - Zettelkasten
 ---
 
 # Welcome to the Zettelkasten Index node

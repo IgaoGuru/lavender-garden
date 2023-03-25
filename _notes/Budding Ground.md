@@ -1,5 +1,8 @@
 ---
 title: Budding Ground
+description: The budding ground of my Digital Garden is place to store idea snippets that
+  are yet to be linked.
+lastmod: 2023-03-25T15:13:27.551Z
 ---
 # A Nursery for unconnected ideas
 The budding ground of my Digital Garden is place to store idea snippets that are yet to be linked or added into a larger narrative of connected ideas. The concept for a budding ground in analogous to the system used by [Maggie Appleton](https://maggieappleton.com) in her digital garden (Sapling, Budding, Evergreen).

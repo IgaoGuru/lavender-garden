@@ -1,6 +1,9 @@
 ---
 title: Zettelkasten as I understand it
 tags: Zettelkasten
+description: Discover the essential components of a Zettelkasten note-taking system,
+  including organization, linking, and tagging.
+lastmod: 2023-03-25T15:13:59.910Z
 ---
 
 A [[Zettelkasten]] system has two main components or two boxes - One is the Zettelkasten itself and the other is a Reference system. 

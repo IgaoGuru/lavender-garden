@@ -1,3 +1,8 @@
+---
+description: What is a digital zettelkasten, how it works, and how to get started. Discover
+  the benefits of this powerful note-taking system today.
+lastmod: 2023-03-25T15:23:50.160Z
+---
 ## What is a digital zettelkasten?zzz
 
 Digital zettelkasten is an effective way of organizing and connecting information in a digital format. They take the principles of an analogue zettlekasten and adapt it to use with a digital environment.

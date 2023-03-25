@@ -1,6 +1,14 @@
 ---
-Title: does the analogue version of zettelkasten offer any extra advantage over the digital version
+Title: does the analogue version of zettelkasten offer any extra advantage over the
+  digital version
 Tags: #Tobeprocessed
+  null
+description: >-
+  
+  Discover the differences between analogue and digital zettelkasten and decide which one works best for you. Find out the pros and cons of both methods in this informative article.
+lastmod: 2023-03-25T15:16:23.555Z
+tags:
+  - Zettelkasten
 ---
 
 - To answer this question we begin by listing what is better in the digital version of a zettelkasten.
